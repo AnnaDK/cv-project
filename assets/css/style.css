@@ -23,6 +23,11 @@ body {
 .bg-color-work-history {
    background-color: #9494b8;
 }
+
+.bg-color-contact {
+    background-color: #ffffff;
+}
+
 .ui-menu-color-home {
     background-color: #ffa64d;
 }
@@ -63,10 +68,9 @@ h1,h2,h3,h4 {
 .row-table {
     display: table;
 }
-.section-heading
-.history-heading {
+.section-heading {
     font-family: "Exo", sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     margin-top: 25px;
     margin-bottom: 40px;
 }
@@ -211,13 +215,19 @@ footer .cv-pdf i:hover{
 .three-reasons-icon {
     font-size: 26px;
     color: #ffa64d;
+    margin-top: 20px;
     
 }
 
 .three-reasons-heading {
     margin-bottom: 15px;
+    margin-top: 20px;
 }
 /*---------------------------Personal info---*/
+.information-block {
+    margin-top: 20px
+}
+
 .personal-info-item {
     margin-bottom: 20px;
     display: block;
@@ -309,6 +319,26 @@ footer .cv-pdf i:hover{
 .history-items {
     margin-bottom: 30px;
 }
+/*---------------------------Contact---*/
+.contact-heading {
+    font-family: "Exo",sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+    
+}
+button[type="submit"]{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #e84610;
+    color: #fafafa;
+}
+
 /*---------------------------Media Queriest---*/
 @media(min-width: 992px) {
 .section-column {
@@ -317,3 +347,9 @@ footer .cv-pdf i:hover{
     display: table-cell;
 }
 }
+
+.center-form {
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
