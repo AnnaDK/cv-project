@@ -1,18 +1,9 @@
+# CV Project.
+This is my CV Project. It was created as part of learning process. Please, follow the [link](https://annadk.github.io/cv-project/) to see it.
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Description
+This web page was created as part of the User Centric Frontend Development Module.
 
+## Technology
+This site was written in HTML & CSS using Bootstrap and Cloud9.
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
